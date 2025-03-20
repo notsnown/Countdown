@@ -21,3 +21,7 @@ This project is a customizable countdown timer with an interactive user interfac
 This project is styled with CSS for a modern appearance, including shadow and 3D effects for the timer container. It is built with HTML, CSS, and JavaScript, ensuring responsiveness and ease of use.
 
 🚀 Perfect for those who need a simple yet effective countdown timer for productivity, workouts, or study sessions!
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Feito com ❤️ por Rodrigo Andrade.
