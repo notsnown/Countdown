@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/CSS/style.css" media="screen">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+        </style>
+    <title>COUNTDOWN</title>
+</head>
+<body>
+    <div class="CLOCK">
+
+            <h2 id="timer">
+                <span id="time"></span>
+            </h2>
+        
+        <div id="actions">
+            <button id="reset">
+                <i class="fa-solid fa-rotate-right"></i>
+            </button>
+            <button id="start">
+                <i class="fa-solid fa-play"></i>
+            </button>
+            <button id="edit">
+                <i class="fa-solid fa-pencil"></i>
+            </button>
+            <button id="mark">
+                <i class="fa-solid fa-flag"></i>
+            </button>
+        </div>
+
+        <div id="mark-list"></div>
+    </div>
+    
+    <div id="edit-time-container" class="hidden">
+        <p>Defina o tempo:</p>
+        <div class="input-group">
+            <input id="edit-hours" min="0" max="23" placeholder="H">
+            <span>:</span>
+            <input id="edit-minutes" min="0" max="59" placeholder="M">
+            <span>:</span>
+            <input id="edit-seconds" min="0" max="59" placeholder="S">
+        </div>
+        <div class="edit-buttons">
+            <button id="confirm-edit">
+                <i class="fa-solid fa-check"></i>
+            </button>
+            <button id="cancel-edit">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+    </div>
+
+    <script src="src/javascript/script.js"></script>
+</body>
+</html>
+
+<!-- Projeto feito por Rodrigo Andrade -->
