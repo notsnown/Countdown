@@ -4,11 +4,17 @@ This project is a customizable countdown timer with an interactive user interfac
 -------------------------------------------------------------------------------
 
 🔹 Features:
+
 ✅ Editable Timer – Users can manually input hours, minutes, and seconds.
+
 ✅ Start/Pause Button – Toggles between play and pause.
+
 ✅ Reset Button – Resets the timer and clears all marks.
+
 ✅ Mark Button – Saves timestamps as checkpoints.
+
 ✅ Edit Mode – Displays an input field to set a custom time.
+
 ✅ Cancel Button – Resets the input field to 00:00:00.
 
 -------------------------------------------------------------------------------
