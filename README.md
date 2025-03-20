@@ -25,3 +25,5 @@ This project is styled with CSS for a modern appearance, including shadow and 3D
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Feito com ❤️ por Rodrigo Andrade.
+
+![image](https://github.com/user-attachments/assets/f28c7d42-5d20-4abf-8e18-14dbb91dfd23)
