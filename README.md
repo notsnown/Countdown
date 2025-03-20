@@ -3,7 +3,7 @@ This project is a customizable countdown timer with an interactive user interfac
 
 -------------------------------------------------------------------------------
 
-🔹 Features:
+## Features:
 
 ✅ Editable Timer – Users can manually input hours, minutes, and seconds.
 
