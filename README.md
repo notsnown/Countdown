@@ -14,8 +14,6 @@ This project is a customizable countdown timer with an interactive user interfac
 
 ✅ Edit Mode – Displays an input field to set a custom time.
 
-✅ Cancel Button – Resets the input field to 00:00:00.
-
 -------------------------------------------------------------------------------
 
 This project is styled with CSS for a modern appearance, including shadow and 3D effects for the timer container. It is built with HTML, CSS, and JavaScript, ensuring responsiveness and ease of use.
