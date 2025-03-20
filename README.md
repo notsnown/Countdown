@@ -22,8 +22,9 @@ This project is styled with CSS for a modern appearance, including shadow and 3D
 
 🚀 Perfect for those who need a simple yet effective countdown timer for productivity, workouts, or study sessions!
 
+
+![image](https://github.com/user-attachments/assets/f28c7d42-5d20-4abf-8e18-14dbb91dfd23)
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Feito com ❤️ por Rodrigo Andrade.
-
-![image](https://github.com/user-attachments/assets/f28c7d42-5d20-4abf-8e18-14dbb91dfd23)
